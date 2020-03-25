@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "name": "Jacqueline",
+        "image": "j2.jpg",
+        "occupation": "Actress"
+      },
+      {
+        "id": 2,
+        "clicked" : false,
+        "name": "Aishwarya rai",
+        "image": "aish.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 3,
+        "clicked" : false,
+        "name": "Kareena kapoor",
+        "image": "k.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 4,
+        "clicked" : false,
+        "name": "Alia Bhatt",
+        "image": "al1.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 5,
+        "clicked" : false,
+        "name": "Deepika padukone",
+        "image": "deepu1.jpg",
+        "occupation": "Actress"
+      },
+      {
+        "id": 6,
+        "clicked" : false,
+        "name": "Katrina Kaif",
+        "image": "katrina1.jpg",
+        "occupation": "Actress"
+      },
+      {
+        "id": 7,
+        "clicked" : false,
+        "name": "shruti hassan",
+        "image": "shruti.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 8,
+        "clicked" : false,
+        "name": "Yash",
+        "image": "yash.jpg",
+        "occupation": "Actor"
+      },
+      {
+        "id": 9,
+        "clicked" : false,
+        "name": "Mahesh Babu",
+        "image": "m.jpg",
+        "occupation": "Actor"
+      },
+      {
+        "id": 10,
+        "clicked" : false,
+        "name": "Dwyane Jhonson",
+        "image": "d.jpg",
+        "occupation": "Actor,Wrestler"
+      },
+      {
+        "id": 11,
+        "clicked" : false,
+        "name": "Salman Khan",
+        "image": "sal.jpg",
+        "occupation": "Hero"
+      },
+      {
+        "id": 12,
+        "clicked" : false,
+        "name": "Anushka sharma",
+        "image": "anush.jpg",
+        "occupation": "Actress"
+      }
+      
+]
